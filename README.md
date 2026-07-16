@@ -2,35 +2,56 @@
 
 🎓 M.S. Student at Hiroshima University
 
-I'm passionate about using data to solve real-world problems.
-My interests include Data Science, Machine Learning, Cloud Computing, and Bioinformatics.
+I'm passionate about solving real-world problems through data analysis and software development.
+
+My background in life science research has inspired me to pursue Data Science, Machine Learning, and Cloud Technologies.
 
 ## 🛠 Tech Stack
 
+### Languages
 - Python
 - C++
-- SQL (PostgreSQL)
-- AWS
-- Git / GitHub
+
+### Data Science
 - pandas
 - NumPy
 - scikit-learn
 - matplotlib
 
+### Database
+- SQL
+- PostgreSQL
+
+### Cloud
+- AWS
+
+### Tools
+- Git
+- GitHub
+
 ## 🚀 Featured Projects
 
-- 📊 Kaggle Titanic
-- ☁️ AWS S3 Analysis
-- 🗄 SQL Practice *(Coming Soon)*
-- 💻 Competitive Programming *(Coming Soon)*
+### 📊 Kaggle Titanic
+Machine learning project using Python and scikit-learn to predict passenger survival.
 
-## ✏️Currently Learning
+### ☁️ AWS S3 Analysis
+Data analysis pipeline using Python and AWS S3.
+
+### 🗄 SQL Practice *(Coming Soon)*
+Learning SQL with PostgreSQL through practical exercises.
+
+### 💻 Competitive Programming *(Coming Soon)*
+Algorithm implementations and AtCoder solutions.
+
+## ✏️ Currently Learning
 
 - Machine Learning
 - Data Engineering
 - PostgreSQL
 - Competitive Programming (AtCoder)
 
-## 📫 Contact
+## 🎯 Goals
 
-- GitHub: @shibata-bio
+- Build practical data science projects
+- Strengthen software engineering skills
+- Apply data-driven solutions to real-world problems
