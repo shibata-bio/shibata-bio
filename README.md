@@ -1,57 +1,114 @@
-# Hi, I'm Suguru Shibata 👋
+Hi, I’m Suguru Shibata 👋
 
 🎓 M.S. Student at Hiroshima University
 
-I'm passionate about solving real-world problems through data analysis and software development.
+I’m a master’s student in life science with a strong interest in Data Science, Machine Learning, and Cloud Computing.
 
-My background in life science research has inspired me to pursue Data Science, Machine Learning, and Cloud Technologies.
+My research has strengthened my ability to formulate hypotheses, analyze data, and solve complex problems. I enjoy applying these skills through programming to build practical, data-driven solutions.
 
-## 🛠 Tech Stack
+⸻
 
-### Languages
-- Python
-- C++
+🛠 Tech Stack
 
-### Data Science
-- pandas
-- NumPy
-- scikit-learn
-- matplotlib
+💻 Languages
 
-### Database
-- SQL
-- PostgreSQL
+* Python
+* C++
 
-### Cloud
-- AWS
+📊 Data Science
 
-### Tools
-- Git
-- GitHub
+* pandas
+* NumPy
+* scikit-learn
+* matplotlib
 
-## 🚀 Featured Projects
+🗄 Database
 
-### 📊 Kaggle Titanic
-Machine learning project using Python and scikit-learn to predict passenger survival.
+* SQL
+* PostgreSQL
 
-### ☁️ AWS S3 Analysis
-Data analysis pipeline using Python and AWS S3.
+☁️ Cloud
 
-### 🗄 SQL Practice *(Coming Soon)*
-Learning SQL with PostgreSQL through practical exercises.
+* AWS
+* AWS Certified Solutions Architect – Associate
 
-### 💻 Competitive Programming *(Coming Soon)*
-Algorithm implementations and AtCoder solutions.
+🔧 Tools
 
-## ✏️ Currently Learning
+* Git
+* GitHub
+* Visual Studio Code
+* Jupyter Notebook
 
-- Machine Learning
-- Data Engineering
-- PostgreSQL
-- Competitive Programming (AtCoder)
+⸻
 
-## 🎯 Goals
+🚀 Featured Projects
 
-- Build practical data science projects
-- Strengthen software engineering skills
-- Apply data-driven solutions to real-world problems
+📊 Kaggle Titanic
+
+Built a machine learning model to predict passenger survival using Python, pandas, and scikit-learn.
+
+* Performed data preprocessing and missing-value handling
+* Conducted feature engineering
+* Trained and evaluated a Random Forest model
+* Analyzed feature importance
+* Achieved approximately 0.80 accuracy
+
+☁️ AWS S3 Analysis
+
+Built a simple data analysis pipeline using Python, boto3, pandas, and Amazon S3.
+
+* Connected Python applications to Amazon S3
+* Uploaded and retrieved CSV files
+* Processed data using pandas
+* Visualized analysis results using matplotlib
+
+🗄 SQL Practice
+
+Practicing SQL fundamentals using PostgreSQL.
+
+Topics include:
+
+* SELECT and WHERE
+* ORDER BY and LIMIT
+* Aggregate functions
+* GROUP BY and HAVING
+* JOIN
+* Subqueries
+
+💻 Competitive Programming
+
+Solving algorithmic problems on AtCoder using C++.
+
+Currently studying:
+
+* BFS and DFS
+* Dynamic Programming
+* Binary Search
+* Graph Algorithms
+* Data Structures
+* Greedy Algorithms
+
+⸻
+
+📜 Certifications
+
+* AWS Certified Solutions Architect – Associate
+
+⸻
+
+✏️ Currently Learning
+
+* SQL and PostgreSQL
+* Machine Learning
+* Data Analysis
+* Data Engineering
+* Competitive Programming
+
+⸻
+
+🎯 Goals
+
+* Develop practical data science projects
+* Strengthen data analysis and machine learning skills
+* Build reliable data pipelines and software
+* Apply data-driven approaches to real-world problems
